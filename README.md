@@ -1,5 +1,5 @@
 # RoomDetection
-Repository for Detecting a room is clean or messy using Python.
+Repository for Detecting wether a room is clean or messy using Python.
 
 This Notebook is the main code for RoomDetection.
 
